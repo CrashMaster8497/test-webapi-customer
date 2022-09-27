@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\CustomerDataLayer\CustomerDataLayer.csproj" />
+    <ProjectReference Include="..\..\src\CustomerDataLayer\CustomerDataLayer.csproj" />
   </ItemGroup>
 
 </Project>
